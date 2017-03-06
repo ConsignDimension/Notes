@@ -1,0 +1,8 @@
+BLOCK Vs INLINE
+
+-Block is a default display.
+-In Block the blocks are displayed as"Block over Block".
+-In Inline the blocks are displayed "Side by Side".
+-In Block height and width can be adjusted.
+-In Inline it ignores width and height properties,it takes default width and it ignores top and bottom margin settings,but will apply left and right margin and padding.
+-In Inline text donot start in the new line, it occupies as much as space it needs.
